@@ -1,5 +1,6 @@
 # MachineLearningMNIST
 **Udacity - Artificial Intelligence Nanodegree Program**
+
 AI - Machine Learning Project sin MNIST Database
 
 # MLP on MNIST
@@ -14,7 +15,7 @@ This project is part of **Udacity´s Artificial Intelligence Nanodegree Program*
 	
 ```	
 git clone https://github.com/pablomateo/MachineLearningMNIST.git
-cd aind2-cnn
+cd MachineLearningMNIST
 ```
 
 2. (Optional) __If you plan to install TensorFlow with GPU support on your local machine__, follow [the guide](https://www.tensorflow.org/install/) to install the necessary NVIDIA software on your system.  If you are using an EC2 GPU instance, you can skip this step.
