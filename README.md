@@ -5,7 +5,9 @@ AI - Machine Learning Project sin MNIST Database
 
 # MLP on MNIST
 
-This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. I first explain how you can download it and test it. Next, I have added Udacity´s original instructions for completing the project.
+This project is part of **Udacity´s Artificial Intelligence Nanodegree Program**. Here you will find my personal solution to the challenge. The following project can be run using a Local Machine or using an external GPU (Solution provided by **Amazon Web Services** is recommended). Next, you can follow Udacitys instructions to install the neccessary dependencies on a local machine or on AWS.
+
+**Note:** The same environment is used in several projects, so don´t worry about its name (dog).
 
 --------------------------------------------------------------------------------------------------------
 
