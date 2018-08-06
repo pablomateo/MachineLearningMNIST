@@ -1,4 +1,4 @@
-name: dog-project
+name: pmaienv
 channels:
 - defaults
 dependencies:
